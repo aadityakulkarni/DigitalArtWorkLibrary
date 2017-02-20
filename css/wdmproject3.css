@@ -1,0 +1,16 @@
+.cost {
+    color: red;
+}
+
+mark {
+    background-color: #ffff00;
+}
+
+.myborder{
+    border : 1px solid grey;
+    border-radius : 4px;
+}
+
+.imgText {
+    height: 5px;
+}
